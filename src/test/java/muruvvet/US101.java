@@ -7,5 +7,6 @@ public class US101 {
         for (int i = 0; i < 9; i++) {
             System.out.println("*");
         }
+        System.out.println("for loop worked");
     }
 }
